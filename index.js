@@ -30,7 +30,7 @@ menubar.onclick=()=>{
 
 // text changer
     var type=new Typed('.textline',{
-        strings:["Fronted Developer","Python Developer","Java Developer"],
+        strings:[" Fronted Developer"," Python Developer"," Java Developer"],
         typeSpeed:100,
         backSpeed:100,
         backDelay:1000,
